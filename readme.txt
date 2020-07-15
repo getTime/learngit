@@ -4,4 +4,5 @@ add distributed
 tracks changes.
 你好远程库
 Creating a new branch is quick.
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
+

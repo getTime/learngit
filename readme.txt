@@ -6,7 +6,5 @@ tracks changes.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
 2020-7-16  10:35
-这是dev分支
 
-dev分支变动
-dev分支增加变动
+这是merge后分支
